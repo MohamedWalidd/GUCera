@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUCera", "GUCera\GUCera.csproj", "{8331DB0F-50EE-4929-8E4C-74B9877E76EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8331DB0F-50EE-4929-8E4C-74B9877E76EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8331DB0F-50EE-4929-8E4C-74B9877E76EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8331DB0F-50EE-4929-8E4C-74B9877E76EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8331DB0F-50EE-4929-8E4C-74B9877E76EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {346ABA66-7973-4599-ADE1-8D08249850C1}
+	EndGlobalSection
+EndGlobal
